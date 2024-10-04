@@ -13,6 +13,7 @@ const Navbar = () => {
           <li className="ygo"><a href="/">Yu-Gi-Oh!</a></li>
           <li className="pokemon"><a href="/">Pokemon</a></li>
           <li className="mtg"><a href="/">MTG</a></li>
+          <li className="additional-games"><a href="/">More</a></li>
         </ul>
       </nav>
     </div>
