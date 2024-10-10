@@ -1,8 +1,22 @@
-# React + Vite
+# Card Capital E-Commerce Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+Discover a vast collection of trading cards from your favorite games, sports, and franchises, all available at competitive prices. Our user-friendly platform ensures a seamless shopping experience, offering detailed product listings, secure checkout, and fast shipping to collectors worldwide.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Screenshot
+
+![Full Application View]()
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [How to Contribute](#contributing)
+- [Test](#test)
+- [Questions](#questions)
+
+## Questions
+
+If you wish to contact me, you can do so at mida.santiago98@gmail.com
