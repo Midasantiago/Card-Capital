@@ -13,11 +13,13 @@ const Header = () => {
         <img className="main-logo"src={throneKing} alt="king sitting on a throne" />
     </div>
     <div className = "searchBar-container">
-      <label htmlFor="search-input" className="search-label">Search</label>
+      <label htmlFor="search-input" className="search-label"></label>
       <input id="search-input" type="text" placeholder="Search for cards here"></input>
     </div>
     <div className="searchButton-container">
-      <button type="submit" className="searchButton" aria-label="Search"><FaSearch size={20}/></button>
+      <button type="submit" className="searchButton" aria-label="Search">
+        <FaSearch size={20}/>
+      </button>
     </div>
     <div className="accountButtons-container">
       <Link to="/login">

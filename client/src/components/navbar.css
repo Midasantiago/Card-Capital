@@ -8,10 +8,12 @@ html, body {
 
 /* Styling for navbar container */
 .navbar-container {
-  width: 100%; 
+  width: 100%;
+  height: 60px; 
   padding: 10px 0;
-  margin-top: 70px;
-  box-sizing: border-box; ;
+  margin-top: -15px;
+  box-sizing: border-box; 
+  overflow: hidden;
 }
 
 /* Styling for whole navbar */
@@ -29,7 +31,7 @@ html, body {
   padding: 0;
   margin: 0; 
   width: 100%;
-  justify-content: space-between; 
+  justify-content: center; 
 }
 
 /* Styling for each individual nav link item */
@@ -37,7 +39,6 @@ html, body {
   background-color: black;
   padding: 13px 10px;
   color: white;
-  justify-content: center;
   transition: background-color 0.3s ease, color 0.3s ease;
   cursor: pointer; 
   text-align: center;
@@ -60,4 +61,8 @@ html, body {
 .nav-links li:hover {
   background-color: yellow;
   color: black;
+}
+
+*{
+  box-sizing: border-box;
 }
